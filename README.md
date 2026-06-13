@@ -1,6 +1,5 @@
 # avalicraft-8
 
-=======================================================
 If you are reading this you or your community have
 been invited to the avalicraft 8 community.
 avalicraft has been my love child for more then
