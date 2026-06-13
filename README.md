@@ -9,7 +9,7 @@ and i am overjoyed to share it with all of you.
 we have a server included in the pack
 thanks to pryden.
 =======================================================
-ip : 64.52.224.167
+ip : 64.52.224.167.0
 fp : bc1784b2f37ef0653a2b76c9d5f9a306283fe602d0e614fdbc3208b0946d3813
 =======================================================
 Our team
